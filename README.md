@@ -1,6 +1,7 @@
 # Neron
 
 Personal knowledge graph. Voice notes in, structured intelligence out.
+- https://clawhub.ai/Vladikasik/neron
 
 ```
 voice/text → transcription → extraction → graph → patterns → push
